@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bakr</string>
+    <string name="lorem">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="restart">Restart</string>
+    <string name="notification_text">Press play to hear the piece!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
